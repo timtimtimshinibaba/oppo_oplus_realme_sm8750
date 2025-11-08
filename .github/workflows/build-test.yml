@@ -1,6 +1,4 @@
-name: 发布测试
-
-env:
+name: 一加13:
   TZ: Asia/Shanghai
   CPU: 'sm8650'
   FEIL: 'oppo+oplus+realme'
